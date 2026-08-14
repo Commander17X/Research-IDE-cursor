@@ -147,3 +147,6 @@ If you reference this work, cite the document titles and repository:
 - *Cursor Reduction Patch: Technical Proof and Measurements* (`CURSOR_REDUCTION_PATCH_TECHNICAL.md`)
 
 Repository: [github.com/Commander17X/Research-IDE-cursor](https://github.com/Commander17X/Research-IDE-cursor)
+
+<img width="615" height="375" alt="image" src="https://github.com/user-attachments/assets/47187caf-9def-4193-9e90-9e38f03c49bb" />
+
