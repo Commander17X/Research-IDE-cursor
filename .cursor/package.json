@@ -1,0 +1,23 @@
+{
+  "name": "research-ide-docs-tooling",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local documentation tooling (lint + live preview) for the Research IDE Cursor Reduction Patch write-ups.",
+  "type": "module",
+  "scripts": {
+    "preview": "node preview-server.mjs",
+    "lint": "markdownlint-cli2",
+    "lint:fix": "markdownlint-cli2 --fix"
+  },
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "highlight.js": "^11.10.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "mermaid": "^11.4.1",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.14.0"
+  }
+}

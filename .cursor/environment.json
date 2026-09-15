@@ -1,0 +1,16 @@
+{
+  "name": "Research IDE Docs",
+  "install": "cd .cursor && npm install",
+  "terminals": [
+    {
+      "name": "docs-preview",
+      "command": "cd .cursor && npm run preview"
+    }
+  ],
+  "ports": [
+    {
+      "name": "docs-preview",
+      "port": 3000
+    }
+  ]
+}
